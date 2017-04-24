@@ -1,0 +1,6 @@
+C:\Users\jsirk\Dropbox\GB Files\C#\Blackbird\StockCompiler\StockCompiler\bin\Debug\StockCompiler.exe.config
+C:\Users\jsirk\Dropbox\GB Files\C#\Blackbird\StockCompiler\StockCompiler\bin\Debug\StockCompiler.exe
+C:\Users\jsirk\Dropbox\GB Files\C#\Blackbird\StockCompiler\StockCompiler\bin\Debug\StockCompiler.pdb
+C:\Users\jsirk\Dropbox\GB Files\C#\Blackbird\StockCompiler\StockCompiler\obj\Debug\StockCompiler.csprojResolveAssemblyReference.cache
+C:\Users\jsirk\Dropbox\GB Files\C#\Blackbird\StockCompiler\StockCompiler\obj\Debug\StockCompiler.exe
+C:\Users\jsirk\Dropbox\GB Files\C#\Blackbird\StockCompiler\StockCompiler\obj\Debug\StockCompiler.pdb
